@@ -70,7 +70,7 @@ e-commerce, pharmacies, clinics, logistics, workshops, hotels, property, educati
 
 ## Get started
 
-1. **[Get your free key and the download](https://cuedis.com#download)** (Windows).
+1. **[Get your free key and the download](https://cuedis.com#download)** (Windows/Mac).
 2. Run the installer on a computer that can reach your database. No admin rights needed.
 3. Make the admin account, activate your key, then add your business, or open the built-in **demo shop** first.
 
